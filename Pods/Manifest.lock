@@ -1,0 +1,19 @@
+PODS:
+  - MapleBacon (3.0.1)
+  - RxCocoa (3.1.0):
+    - RxSwift (~> 3.1)
+  - RxSwift (3.1.0)
+
+DEPENDENCIES:
+  - MapleBacon
+  - RxCocoa (~> 3.0)
+  - RxSwift (~> 3.0)
+
+SPEC CHECKSUMS:
+  MapleBacon: 8fb0c45a0f147049ad49af6b36ac04a649baa74d
+  RxCocoa: 50d7564866da9299161e86a263ce12a0873904d8
+  RxSwift: 83ff553e7593fdfdcb2562933a64c0284dffdadc
+
+PODFILE CHECKSUM: 70669a0f93900f4512f78f9f2cb1f3cbeba1d095
+
+COCOAPODS: 1.1.1
